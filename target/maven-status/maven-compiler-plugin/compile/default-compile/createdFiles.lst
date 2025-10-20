@@ -1,0 +1,6 @@
+com\kaiburr\demo\Hello.class
+com\kaiburr\demo\repository\TaskRepository.class
+com\kaiburr\demo\controller\TaskController.class
+com\kaiburr\demo\model\Task.class
+com\kaiburr\demo\DemoApplication.class
+com\kaiburr\demo\model\TaskExecution.class
